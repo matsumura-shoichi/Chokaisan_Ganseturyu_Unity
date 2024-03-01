@@ -1,4 +1,4 @@
-〇Simulation.zipの使用方法
+〇　Simulation.zipの使用方法
 
 ・Zipファイルをダウンロード・展開後、game2フォルダ内のKisakataganseturyu.exeをダブルクリックすると起動します。
 
@@ -10,7 +10,7 @@
 
 
 
-〇関連動画
+〇　関連動画
 
 1.鳥海山の岩屑流をUnityで再現する
 https://www.youtube.com/watch?v=FuGeWqSw6M0&t=15s
@@ -20,3 +20,7 @@ https://www.youtube.com/watch?v=cVISucouz30&t=2s
 
 3.鳥海山の岩屑流をUnityで再現する（岩屑流解説編）
 https://www.youtube.com/watch?v=NnwgkOBQE0M
+
+〇　作者
+
+ 　　　松村正一　元　国土地理院職員　　現　アジア航測株式会社職員　1958年生まれ
